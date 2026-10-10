@@ -1,0 +1,239 @@
+{
+  "name": "the-bread-line-runs-out",
+  "description": "After the news, hungry and with no food: the chapel's bread line runs out before your turn. The 2 bells and the Hardship are paid all the same, and Sister Ilse shakes out the empty basket.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 567894474,
+    "day": 1,
+    "bell": 5,
+    "time": 4,
+    "moments": 1,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 6,
+        "max": 6
+      },
+      "hunger": {
+        "value": 3,
+        "max": 3
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 5,
+        "max": 5
+      },
+      "crisis": {
+        "value": 2,
+        "max": 2
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 0,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 3,
+        "max": 3
+      },
+      "crisis-claim-talk": {
+        "value": 1,
+        "max": 1
+      },
+      "hardship": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "the-chapel-at-the-gate",
+      "branchId": "bread",
+      "resultId": "bread-success-2",
+      "title": "Gone before your turn",
+      "description": "Since the news, the line goes down past the hand-carts. Two bells in the wind, a step at a time, and then the word comes back along it before you reach the door: no more bread today. [who:regard-binder] comes out to bless what's left of the line, and sends it away.",
+      "changes": [
+        {
+          "quality": "hardship",
+          "kind": "up",
+          "text": "It takes something out of you.",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "It is now Nones.",
+          "level": null
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "It is now Vespers.",
+          "level": null
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness has increased (Heavy-eyed).",
+          "level": 3,
+          "progress": {
+            "points": 0,
+            "next": 4
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false,
+      "marks": {
+        "claim": "card"
+      }
+    },
+    "queue": [],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [
+      "the-chapel-at-the-gate/bread"
+    ],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens",
+      "claim"
+    ]
+  }
+}

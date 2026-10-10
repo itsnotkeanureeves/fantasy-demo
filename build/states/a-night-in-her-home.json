@@ -1,0 +1,216 @@
+{
+  "name": "a-night-in-her-home",
+  "description": "The second morning, tired, with Sister Ilse's home offered. Sleep in her home: Hardship falls by 1 point, from 3 points to 2 (its tooltip shows them). The next card is the first morning in her home, and moves her home to shared.",
+  "open": "the-chapel-at-the-gate",
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 2399460287,
+    "day": 2,
+    "bell": 1,
+    "time": 2,
+    "moments": 1,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 15,
+        "max": 15
+      },
+      "hunger": {
+        "value": 2,
+        "max": 2
+      },
+      "desire": {
+        "value": 2,
+        "max": 2
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 0,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 2,
+        "max": 3
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 10,
+        "max": 10
+      },
+      "origin": {
+        "value": 3,
+        "max": 3
+      },
+      "met-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "regard-binder": {
+        "value": 3,
+        "max": 3
+      },
+      "prologue-bed": {
+        "value": 1,
+        "max": 1
+      },
+      "hardship": {
+        "value": 3,
+        "max": 3
+      },
+      "keepsake-knife": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": {
+      "cardId": "the-chapel-at-the-gate",
+      "fromHand": false,
+      "marks": {
+        "claim": "choice:buy-claim"
+      }
+    },
+    "result": null,
+    "queue": [],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire",
+      "night-below-the-wall"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens",
+      "risen",
+      "claim"
+    ]
+  }
+}

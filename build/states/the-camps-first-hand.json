@@ -1,0 +1,218 @@
+{
+  "name": "the-camps-first-hand",
+  "description": "The camp's first day, after Where You Come From: the next draw, with Who You Are among the camp's other cards.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 2,
+    "rng": 3599190431,
+    "day": 1,
+    "bell": 3,
+    "time": 2,
+    "moments": 3,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 3,
+        "max": 3
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 3,
+        "max": 3
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 6,
+        "max": 6
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 1,
+        "max": 1
+      },
+      "origin": {
+        "value": 1,
+        "max": 1
+      },
+      "coin": {
+        "value": 3,
+        "max": 3
+      },
+      "provisions": {
+        "value": 3,
+        "max": 3
+      },
+      "temperature": {
+        "value": 2,
+        "max": 2
+      },
+      "farm-clothes": {
+        "value": 1,
+        "max": 1
+      },
+      "coat": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "farm-clothes"
+      ]
+    },
+    "hand": [
+      "on-your-back",
+      "exploring-the-camp",
+      "who-you-are"
+    ],
+    "open": null,
+    "result": null,
+    "queue": [],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire",
+      "where-you-come-from"
+    ],
+    "spentToday": [
+      "where-you-come-from",
+      "on-your-back",
+      "exploring-the-camp",
+      "who-you-are"
+    ],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens",
+      "dead-lands"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "pictures": {
+    "area-below-the-wall-1": {
+      "file": "area-below-the-wall-1.webp",
+      "focus": [44, 66]
+    },
+    "area-below-the-wall-2": {
+      "file": "area-below-the-wall-2.webp",
+      "focus": [50, 60]
+    },
+    "area-the-city-1": {
+      "file": "area-the-city-1.webp",
+      "focus": [47, 30]
+    },
+    "area-the-city-2": {
+      "file": "area-the-city-2.webp",
+      "focus": [45, 80]
+    },
+    "area-the-road-1": {
+      "file": "area-the-road-1.webp",
+      "focus": [46, 38]
+    },
+    "area-the-road-2": {
+      "file": "area-the-road-2.webp",
+      "focus": [55, 60]
+    },
+    "card-bread": {
+      "file": "card-bread.webp",
+      "focus": [53, 63]
+    },
+    "card-chapel": {
+      "file": "card-chapel.webp",
+      "focus": [66, 41]
+    },
+    "card-company-tent": {
+      "file": "card-company-tent.webp",
+      "focus": [63, 41]
+    },
+    "card-dead-yard": {
+      "file": "card-dead-yard.webp",
+      "focus": [50, 55]
+    },
+    "card-drover": {
+      "file": "card-drover.webp",
+      "focus": [47, 34]
+    },
+    "card-haulers-fire": {
+      "file": "card-haulers-fire.webp",
+      "focus": [50, 72]
+    },
+    "card-keepsake-handbell": {
+      "file": "card-keepsake-handbell.webp",
+      "focus": [41, 44]
+    },
+    "card-keepsake-knife": {
+      "file": "card-keepsake-knife.webp",
+      "focus": [41, 34]
+    },
+    "card-keepsake-nail": {
+      "file": "card-keepsake-nail.webp",
+      "focus": [41, 47]
+    },
+    "card-keepsake-shore-share": {
+      "file": "card-keepsake-shore-share.webp",
+      "focus": [22, 38]
+    },
+    "card-land-gate": {
+      "file": "card-land-gate.webp",
+      "focus": [53, 31]
+    },
+    "card-night-below-the-wall": {
+      "file": "card-night-below-the-wall.webp",
+      "focus": [56, 63]
+    },
+    "card-old-city": {
+      "file": "card-old-city.webp",
+      "focus": [25, 34]
+    },
+    "card-old-drain": {
+      "file": "card-old-drain.webp",
+      "focus": [50, 62]
+    },
+    "card-rider": {
+      "file": "card-rider.webp",
+      "focus": [53, 53]
+    },
+    "card-seal-broker": {
+      "file": "card-seal-broker.webp",
+      "focus": [44, 63]
+    },
+    "card-shivering": {
+      "file": "card-shivering.webp",
+      "focus": [50, 53]
+    },
+    "card-surgeons-awning": {
+      "file": "card-surgeons-awning.webp",
+      "focus": [47, 53]
+    },
+    "card-young-man": {
+      "file": "card-young-man.webp",
+      "focus": [22, 63]
+    },
+    "quality-coin": {
+      "file": "quality-coin.webp",
+      "focus": [47, 50]
+    },
+    "quality-desire": {
+      "file": "quality-desire.webp",
+      "focus": [50, 66]
+    },
+    "quality-hunger": {
+      "file": "quality-hunger.webp",
+      "focus": [78, 50]
+    },
+    "quality-provisions": {
+      "file": "quality-provisions.webp",
+      "focus": [75, 41]
+    },
+    "quality-sleepiness": {
+      "file": "quality-sleepiness.webp",
+      "focus": [44, 34]
+    },
+    "quality-wounds": {
+      "file": "quality-wounds.webp",
+      "focus": [50, 72]
+    }
+  }
+}

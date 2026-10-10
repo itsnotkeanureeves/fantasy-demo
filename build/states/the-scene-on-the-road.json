@@ -1,0 +1,105 @@
+{
+  "name": "the-scene-on-the-road",
+  "description": "The road in: the scene, with one choice, Walk on to the gate. Then the body (a woman, a man, or it's not that simple) and the wardens' check of the hands.",
+  "open": "the-road-in",
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 1,
+    "day": 1,
+    "bell": 1,
+    "time": 0,
+    "moments": 0,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "the-road",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 1,
+        "max": 1
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {},
+    "hand": [],
+    "open": {
+      "cardId": "the-road-in",
+      "fromHand": false,
+      "marks": {
+        "bound": "card",
+        "binding": "card",
+        "drover": "card",
+        "wardens": "card"
+      }
+    },
+    "result": null,
+    "queue": [],
+    "onceOnly": [],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}

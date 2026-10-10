@@ -1,0 +1,218 @@
+[
+  {
+    "name": "a-crisis-card",
+    "description": "A New Price, the crisis card about bread: the fleet is late, and the baker has a new price. Open the Progress tab: The crisis shows what changed."
+  },
+  {
+    "name": "a-danger-card",
+    "description": "New to the camp, out in the far camp: three people with nothing to lose. Hand it over, fight, talk, or run. Each test is harder this far out, and a lost fight costs more than an everyday failure."
+  },
+  {
+    "name": "a-fresh-mark",
+    "description": "The land gate in the morning, with a company claim and a mark two nights from healing: Go in shows locked until it heals. The mark shows in the right column, with the nights left."
+  },
+  {
+    "name": "a-hand-in-your-coat",
+    "description": "The cutpurse in the crush between the tents, his hand on your purse: grab his wrist, turn on him with your knife, or give him a coin to be rid of him. Only the coin costs you coin."
+  },
+  {
+    "name": "a-night-in-her-home",
+    "description": "The second morning, tired, with Sister Ilse's home offered. Sleep in her home: Hardship falls by 1 point, from 3 points to 2 (its tooltip shows them). The next card is the first morning in her home, and moves her home to shared."
+  },
+  {
+    "name": "a-wound-gone-bad",
+    "description": "A wound gone bad: the wound card's festering text, and Sickness on the left."
+  },
+  {
+    "name": "buy-wood-without-coin",
+    "description": "The haulers' fire at night, too cold to sleep, not sleepy and with no coin. Buy wood for the fire shows only the Cold and Coin icons, and the line under it asks only for Coin."
+  },
+  {
+    "name": "cornered",
+    "description": "Turn round on the man who follows you, and fail: Cornered. Fight them with your knife, or hold out your purse."
+  },
+  {
+    "name": "familiarity-rises",
+    "description": "Familiarity rises to Known by sight: its change line and progress bar are on the result. No company tent yet: the crier points it out on a card of its own."
+  },
+  {
+    "name": "flirting-with-sister-ilse",
+    "description": "At Sister Ilse's table, after she has told you her age: tell her the grey suits her, and she answers in kind."
+  },
+  {
+    "name": "found-at-dawn",
+    "description": "The dawn after the news: Found at Dawn. You gave him bread, and walked him to the surgeon, who refused him; the page reads both."
+  },
+  {
+    "name": "hands-for-the-yard",
+    "description": "Hands for the Yard, the card that opens the dead-yard shift. Before you play it, the company tent has no Work choice; after it, it does."
+  },
+  {
+    "name": "hardship-and-nerve",
+    "description": "The column of the dead at Prime, Worn thin: Cross shows what Hardship takes off the Nerve test."
+  },
+  {
+    "name": "hardship-at-the-fire",
+    "description": "The haulers' fire at night, already Worn and too cold to sleep: sitting up adds 2 points of Hardship, buying wood adds 1."
+  },
+  {
+    "name": "ma-hesks-new-topics",
+    "description": "Ma Hesk's conversation after the club topic: Why the club costs coin, and Why not save for it, are new. Why she's still out here has a new answer: hauling is all her hands know."
+  },
+  {
+    "name": "missed-club-dues",
+    "description": "The morning after unpaid dues: Struck Through opens by itself. Pay now, or hold out your wrist: the claim is gone, and Join the burial club never comes back."
+  },
+  {
+    "name": "night-watch-pistol",
+    "description": "The haulers' fire at night, with the night watch open and a pistol: the watch tests Shot, with the watch's one charge."
+  },
+  {
+    "name": "not-at-the-fire",
+    "description": "The morning after a night in Sister Ilse's home, with the club's dues a day late: Ma Hesk comes looking for you on the road. Pay her, or hold out your wrist."
+  },
+  {
+    "name": "not-that-simple",
+    "description": "Not That Simple, from \"It's not that simple\" on Under the Dust: the other 4 choices of body."
+  },
+  {
+    "name": "one-of-ours-at-the-fire",
+    "description": "The haulers' fire on the first evening: A blanket from the dead-yard is a choice now, not a card that opens itself. Go and see: the club's binder counts the box's coin and haggles before he kneels."
+  },
+  {
+    "name": "out-of-the-river",
+    "description": "The old drain, step 1: Out of the River makes you aware of a way under the wall. Play it, then open Threads."
+  },
+  {
+    "name": "picking-a-style",
+    "description": "Behind the canvas at the haulers' fire: every style shows, and Road Rags is open, because the road clothes have 3 points of it. Put on the wool cap in the Kit tab and look at the styles in the Progress tab. Pick a style: Standing shows it, with Flair."
+  },
+  {
+    "name": "sign-locked",
+    "description": "The company tent with two good shifts behind you: Sign your death shows locked, and says it needs four. Work a shift to see the count rise."
+  },
+  {
+    "name": "sister-ilses-offer",
+    "description": "At home in the camp, and trusted by Sister Ilse: she offers you the floor of her room behind the chapel. Tell her you've slept on worse floors to hear her answer in kind. Threads shows her offer."
+  },
+  {
+    "name": "sleep-by-day",
+    "description": "The haulers' fire in the afternoon, not sleepy. Sleep by the fire is locked: \"Requires: At night or Sleepiness ≥ 5\". Hover its At night icon: \"Or instead: Sleepiness ≥ 5.\""
+  },
+  {
+    "name": "teetotal-jug",
+    "description": "The haulers' fire on the first night, Teetotal and shaken: the jug is locked, and says why."
+  },
+  {
+    "name": "the-bakers-cart",
+    "description": "The baker's cart, a place in the camp by day: buy two loaves for 3 coin. It stays on the table, and the price goes up to 4 when bread gets dearer."
+  },
+  {
+    "name": "the-binder-route-locked",
+    "description": "The wardens' check of the hands: Hide that you can bind shows, but locked. Hover its button for the hint."
+  },
+  {
+    "name": "the-bread-line-runs-out",
+    "description": "After the news, hungry and with no food: the chapel's bread line runs out before your turn. The 2 bells and the Hardship are paid all the same, and Sister Ilse shakes out the empty basket."
+  },
+  {
+    "name": "the-bread-line",
+    "description": "The chapel at the gate, hungry and with no food: join the chapel's bread line. It takes 2 bells and adds 1 point of Hardship. With bread in your pack, or fed, the line isn't there."
+  },
+  {
+    "name": "the-camp-on-arrival",
+    "description": "The camp on arrival: Familiarity is New here, and only the land gate, the haulers' fire and the chapel are on the table. No company tent."
+  },
+  {
+    "name": "the-camps-first-hand",
+    "description": "The camp's first day, after Where You Come From: the next draw, with Who You Are among the camp's other cards."
+  },
+  {
+    "name": "the-club-dues",
+    "description": "A member of the burial club on the day the dues are owed: Dues for the Box. Pay, or tell her you haven't got it. It cannot be discarded."
+  },
+  {
+    "name": "the-club-fee",
+    "description": "The haulers' fire, trusted and with coin: Join the burial club costs the entry fee, and the result names the dues. Before you join, Threads names the fee, then the dues; after, it says when the dues come."
+  },
+  {
+    "name": "the-company-signs",
+    "description": "The company tent after four good shifts: sign your death, and see the seal, the brand on the brow, Wounds, and a fresh mark that has to heal."
+  },
+  {
+    "name": "the-criers-offer",
+    "description": "Known by sight: the company's crier points out the company tent. Take either choice, press Onwards, and the tent is on the table."
+  },
+  {
+    "name": "the-drain-found",
+    "description": "The old drain, step 3: Exploring the Camp below the tanneries finds it. Play it, then open Threads: the old drain is now a way in."
+  },
+  {
+    "name": "the-drain-search",
+    "description": "The old drain, step 2: Exploring the Camp at the foot of the wall. Play it, then open Threads to see the search move on."
+  },
+  {
+    "name": "the-dues-round",
+    "description": "The evening after the club topic: The Dues Round. Carry the box round the fires; at the last one, a woman asks for a week's grace, and Ma Hesk turns to you."
+  },
+  {
+    "name": "the-far-camp",
+    "description": "Further out, below the yards. Take the camp road down to the last tents: the notice under the time of day says The far camp. Then draw from the camp: the far camp's cards come (deserters, a man selling his own claim), and the bread seller and the share-seller come less often. Sleep, and at dawn you're back by the fire."
+  },
+  {
+    "name": "the-man-who-saves",
+    "description": "Below the yards, by day: the man in the heavy coat. Keep watch while he sleeps, cut a seam of his coat, or tell him about the burial club."
+  },
+  {
+    "name": "the-news-in-the-camp",
+    "description": "The news, in the camp: a rider comes up the road from the ford. Push through to hear him, or listen to the crowd. Two more cards follow: the camp, and the young man at the fire."
+  },
+  {
+    "name": "the-old-clothes-seller",
+    "description": "The old-clothes seller, a place in the camp by day: 8 showcase items, each with its price. With 20 coin, the cheap ones open and the dear ones stay locked. Buy one, press Onwards, and the stall opens again; close it to leave."
+  },
+  {
+    "name": "the-old-hauler-alive",
+    "description": "The first afternoon below the wall. Take the bowl: the old man with a face like an old glove passes you the salt, and goes down to the dead-yard with a shovel."
+  },
+  {
+    "name": "the-origin-in-the-hand",
+    "description": "The camp's first day: Where You Come From is in the hand, and the character still wears road clothes (the Kit tab). Play it: the result ends with a note about the Kit tab and changing clothes, and the Kit tab shows the clothes from home."
+  },
+  {
+    "name": "the-scene-on-the-road",
+    "description": "The road in: the scene, with one choice, Walk on to the gate. Then the body (a woman, a man, or it's not that simple) and the wardens' check of the hands."
+  },
+  {
+    "name": "the-surgeon-refuses",
+    "description": "The surgeon's awning, badly hurt and with no seal: ask him, and he turns you away."
+  },
+  {
+    "name": "the-wound",
+    "description": "The camp with a cut that wants tending: clean it, leave it, or go to the surgeon on the table."
+  },
+  {
+    "name": "the-yards-back-gate",
+    "description": "Sent round by the surgeon: the company tent at Vespers. Go round to the yard's back gate."
+  },
+  {
+    "name": "the-young-man-sick",
+    "description": "The young man at the haulers' fire, with a fever: it shows at the fire. Sit with him to talk: his topics show it too."
+  },
+  {
+    "name": "threads-ways-in",
+    "description": "Open Threads: the prologue's next step lists the ways in you have found (the company, the church, the burial club, the old drain) and what each still needs."
+  },
+  {
+    "name": "too-cold-to-sleep",
+    "description": "The haulers' fire at night, too cold to sleep. Buy wood, then go on to the morning: it reads how you slept."
+  },
+  {
+    "name": "too-shaken-to-sleep",
+    "description": "The haulers' fire on the first night, after the release: too shaken to sleep. Sitting up, the haulers talk about the old man."
+  },
+  {
+    "name": "your-mark",
+    "description": "Your Mark, on the day of the company's brand: a wound only time heals. Look at it, or cover it."
+  }
+]

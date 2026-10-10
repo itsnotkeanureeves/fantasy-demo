@@ -1,0 +1,233 @@
+{
+  "name": "familiarity-rises",
+  "description": "Familiarity rises to Known by sight: its change line and progress bar are on the result. No company tent yet: the crier points it out on a card of its own.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 1767624617,
+    "day": 1,
+    "bell": 3,
+    "time": 3,
+    "moments": 1,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 9,
+        "max": 9
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 3,
+        "max": 3
+      },
+      "prologue-rope-mother-told-why-here": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-lead-the-seals": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "the-land-gate",
+      "branchId": "watch",
+      "resultId": "watch-success-1",
+      "title": "Marks",
+      "description": "Company brands first, on the brow, a barge and a handbell and a hand burned where the nail will go. The wardens barely look at them. Church marks get a hand turned to the light, and a name asked. A man in a fur collar holds up a seal on a gold chain, and they bow him through without touching his hands at all. A man with no mark is walked back down the road by his elbow.\n\nAnd one warden, a thin one with a broken nose, waves the burial club's knots through without looking at them.",
+      "changes": [
+        {
+          "quality": "prologue-lead-the-seals",
+          "kind": "up",
+          "text": "Lead: the wardens and the marks has increased to 1 (You watched the gate yourself).",
+          "level": 1
+        },
+        {
+          "quality": "familiarity-camp",
+          "kind": "up",
+          "text": "Familiarity has increased (Known by sight).",
+          "level": 2,
+          "progress": {
+            "points": 0,
+            "next": 3
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "It is now Sext.",
+          "level": null
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 3,
+          "progress": {
+            "points": 3,
+            "next": 4
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false
+    },
+    "queue": [],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "name": "not-that-simple",
+  "description": "Not That Simple, from \"It's not that simple\" on Under the Dust: the other 4 choices of body.",
+  "open": "not-that-simple",
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 3663131627,
+    "day": 1,
+    "bell": 1,
+    "time": 0,
+    "moments": 2,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "the-road",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 3,
+        "max": 3
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": {
+      "cardId": "not-that-simple",
+      "fromHand": false
+    },
+    "result": null,
+    "queue": [],
+    "onceOnly": [
+      "the-road-in"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}
