@@ -1,0 +1,357 @@
+{
+  "name": "strip-her-cot",
+  "description": "Sister Ilse's cot at Closed door: the night told as a strip of three panels above the text.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 1767624617,
+    "day": 2,
+    "bell": 1,
+    "time": 2,
+    "moments": 0,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 2,
+        "max": 6
+      },
+      "hunger": {
+        "value": 2,
+        "max": 2
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "content-setting": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "weather": {
+        "value": 4,
+        "max": 5
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 0,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 2,
+        "max": 3
+      },
+      "cold": {
+        "value": 2,
+        "max": 2
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 10,
+        "max": 10
+      },
+      "met-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "regard-binder": {
+        "value": 4,
+        "max": 4
+      },
+      "prologue-bed": {
+        "value": 2,
+        "max": 2
+      },
+      "prologue-binder-flirted": {
+        "value": 1,
+        "max": 1
+      },
+      "intimacy-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-bed-tonight": {
+        "value": 0,
+        "max": 1
+      },
+      "prologue-bed-last-night": {
+        "value": 1,
+        "max": 2
+      },
+      "binder-cot-tonight": {
+        "value": 1,
+        "max": 2
+      },
+      "binder-cot-intimate": {
+        "value": 1,
+        "max": 1
+      },
+      "weather-roll": {
+        "value": 9,
+        "max": 9
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "the-low-door",
+      "branchId": "lie",
+      "resultId": "lie-success-1",
+      "title": "The rushlight out",
+      "description": "She pinches out the rushlight. The cot complains under the two of you, and she laughs into your shoulder, once, at the noise. After that the dark is hers and yours.\n\nLater, the stove has burned low, and her hands are warm.",
+      "changes": [
+        {
+          "quality": "desire",
+          "kind": "down",
+          "text": "The restless want settles.",
+          "level": 0,
+          "progress": {
+            "points": 0,
+            "next": 1
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": "regard-binder",
+          "kind": "up",
+          "text": "Sister Ilse thinks better of you. Regard 4 of 10: Almost smiles when you come in.",
+          "level": 4,
+          "was": {
+            "level": 3
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "down",
+          "text": "Sleepiness has dropped (Wide awake).",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          },
+          "was": {
+            "level": 3,
+            "progress": {
+              "points": 0,
+              "next": 4
+            }
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 1,
+          "progress": {
+            "points": 1,
+            "next": 2
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "A new day begins.",
+          "level": null
+        },
+        {
+          "quality": "hunger",
+          "kind": "up",
+          "text": "Your belly gnaws at you.",
+          "level": 1,
+          "progress": {
+            "points": 1,
+            "next": 2
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": "desire",
+          "kind": "up",
+          "text": "A restless want stirs in you.",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          },
+          "was": {
+            "level": 0,
+            "progress": {
+              "points": 0,
+              "next": 1
+            }
+          }
+        },
+        {
+          "quality": "weather",
+          "kind": "down",
+          "text": "The weather changes. Rain. Anything left out gets wet, and wet cloth holds the cold.",
+          "level": 4,
+          "was": {
+            "level": 5
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false
+    },
+    "queue": [
+      "her-cot-at-dawn",
+      "night-below-the-wall"
+    ],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}

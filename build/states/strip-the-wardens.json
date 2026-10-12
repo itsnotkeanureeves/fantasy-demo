@@ -1,0 +1,252 @@
+{
+  "name": "strip-the-wardens",
+  "description": "The Wardens' result: the turning back, told as a strip of three panels above the text.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 1199730144,
+    "day": 1,
+    "bell": 3,
+    "time": 2,
+    "moments": 1,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 4,
+        "max": 4
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "content-setting": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "weather": {
+        "value": 5,
+        "max": 5
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "cold": {
+        "value": 2,
+        "max": 2
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "the-wardens",
+      "branchId": "hands",
+      "resultId": "hands-success-1",
+      "title": "Mark?",
+      "description": "He holds them, turns them over, looks at the backs and then at your brow, and lets go. \"Mark.\" You don't know what he means. He pushes back his cuff: a tower, pricked in ink into his wrist, the council's.\n\n\"Mark,\" he says again, slower. \"Who holds your death?\"\n\nNobody does.\n\n\"Then you don't come in. Nobody dies in here without someone to answer for the body.\" He jerks his thumb down the road. \"Camp's below. Gate takes arrivals in the mornings.\" He's already looking past you.",
+      "changes": [
+        {
+          "quality": "prologue",
+          "kind": "up",
+          "text": "The prologue has increased to 2 (Turned back at the gate for want of a claim. The camp below the wall).",
+          "level": 2,
+          "was": {
+            "level": 1
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "You travel to Below the Wall.",
+          "level": null
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "It is now Terce.",
+          "level": null
+        },
+        {
+          "quality": "cold",
+          "kind": "up",
+          "text": "The weather gets through what you're wearing. The cold bites deeper.",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          },
+          "was": {
+            "level": 0,
+            "progress": {
+              "points": 0,
+              "next": 1
+            }
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "It is now Sext.",
+          "level": null
+        },
+        {
+          "quality": "cold",
+          "kind": "up",
+          "text": "The weather gets through what you're wearing. The cold bites deeper.",
+          "level": 1,
+          "progress": {
+            "points": 1,
+            "next": 2
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 2,
+          "progress": {
+            "points": 1,
+            "next": 3
+          },
+          "was": {
+            "level": 2,
+            "progress": {
+              "points": 0,
+              "next": 3
+            }
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false
+    },
+    "queue": [
+      "a-place-by-the-fire"
+    ],
+    "onceOnly": [
+      "the-road-in"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}

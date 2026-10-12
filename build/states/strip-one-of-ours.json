@@ -1,0 +1,256 @@
+{
+  "name": "strip-one-of-ours",
+  "description": "One of Ours' result: the old hauler's release, told as a strip of three panels above the text.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 2399460287,
+    "day": 1,
+    "bell": 5,
+    "time": 2,
+    "moments": 2,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 7,
+        "max": 7
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "content-setting": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "weather": {
+        "value": 5,
+        "max": 5
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "cold": {
+        "value": 2,
+        "max": 2
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-saw-the-release": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-release-today": {
+        "value": 1,
+        "max": 1
+      },
+      "shaken": {
+        "value": 3,
+        "max": 3
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "one-of-ours",
+      "branchId": "watch",
+      "resultId": "watch-success-1",
+      "title": "Still",
+      "description": "The binder kneels. He lays a pewter seal on the dead man's brow, says the words, and drives the nail through it, and the dead man's eyes open. Everyone round the fire leans away at once. Then the binder draws out the nail and the seal, in the same breath, and the old man lies down for good, as if he'd only wanted to look at them one more time.\n\n[who:regard-rope-mother] runs her finger down a page of her book to his name. [say:regard-rope-mother] \"Forty years he paid into that box,\" she says, to nobody. \"Forty years, for this.\"",
+      "changes": [
+        {
+          "quality": "shaken",
+          "kind": "up",
+          "text": "Shaken has increased (Shaken. Your nerve is not what it was, for now).",
+          "level": 3,
+          "was": {
+            "level": 0
+          }
+        },
+        {
+          "quality": "nerve",
+          "kind": "down",
+          "text": "Nerve has dropped to 0.",
+          "level": 0,
+          "was": {
+            "level": 1
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 3,
+          "progress": {
+            "points": 1,
+            "next": 4
+          },
+          "was": {
+            "level": 3,
+            "progress": {
+              "points": 0,
+              "next": 4
+            }
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false,
+      "marks": {
+        "binder": "card"
+      }
+    },
+    "queue": [],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens",
+      "binder"
+    ]
+  }
+}

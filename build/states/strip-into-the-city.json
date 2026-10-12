@@ -1,0 +1,259 @@
+{
+  "name": "strip-into-the-city",
+  "description": "Into the City's result: going in through the land gate, told as a strip of two panels above the text.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 2399460287,
+    "day": 1,
+    "bell": 1,
+    "time": 2,
+    "moments": 2,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "the-city",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 7,
+        "max": 7
+      },
+      "hunger": {
+        "value": 1,
+        "max": 1
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "content-setting": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 6,
+        "max": 6
+      },
+      "weather": {
+        "value": 5,
+        "max": 5
+      },
+      "crisis": {
+        "value": 2,
+        "max": 2
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 1,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 3,
+        "max": 3
+      },
+      "cold": {
+        "value": 2,
+        "max": 2
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 10,
+        "max": 10
+      },
+      "claim": {
+        "value": 2,
+        "max": 2
+      },
+      "origin": {
+        "value": 1,
+        "max": 1
+      },
+      "age": {
+        "value": 1,
+        "max": 1
+      },
+      "trait": {
+        "value": 1,
+        "max": 1
+      },
+      "weapon-knife": {
+        "value": 1,
+        "max": 1
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "through-the-gate",
+      "branchId": "in",
+      "resultId": "in-success-1",
+      "title": "The city",
+      "description": "You step out.",
+      "changes": [
+        {
+          "quality": "prologue",
+          "kind": "up",
+          "text": "The prologue has increased to 6 (Inside the old city).",
+          "level": 6,
+          "was": {
+            "level": 5
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "You travel to The City.",
+          "level": null
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 3,
+          "progress": {
+            "points": 1,
+            "next": 4
+          },
+          "was": {
+            "level": 3,
+            "progress": {
+              "points": 0,
+              "next": 4
+            }
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false
+    },
+    "queue": [
+      "the-old-city"
+    ],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}

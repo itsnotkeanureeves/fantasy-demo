@@ -1,0 +1,364 @@
+{
+  "name": "strip-his-cart",
+  "description": "Master Lenz's cart at Closed door: the night told as a strip of three panels above the text.",
+  "open": null,
+  "state": {
+    "version": 3,
+    "seed": 1,
+    "rng": 1767624617,
+    "day": 2,
+    "bell": 1,
+    "time": 2,
+    "moments": 0,
+    "handSize": 3,
+    "name": "Wren",
+    "dead": false,
+    "area": "below-the-wall",
+    "qualities": {
+      "brawn": {
+        "value": 1,
+        "max": 1
+      },
+      "nerve": {
+        "value": 1,
+        "max": 1
+      },
+      "arms": {
+        "value": 1,
+        "max": 1
+      },
+      "shot": {
+        "value": 1,
+        "max": 1
+      },
+      "guile": {
+        "value": 1,
+        "max": 1
+      },
+      "presence": {
+        "value": 1,
+        "max": 1
+      },
+      "letters": {
+        "value": 1,
+        "max": 1
+      },
+      "fieldcraft": {
+        "value": 1,
+        "max": 1
+      },
+      "rites": {
+        "value": 1,
+        "max": 1
+      },
+      "physick": {
+        "value": 1,
+        "max": 1
+      },
+      "sleepiness": {
+        "value": 2,
+        "max": 6
+      },
+      "hunger": {
+        "value": 2,
+        "max": 2
+      },
+      "desire": {
+        "value": 1,
+        "max": 1
+      },
+      "content-setting": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue": {
+        "value": 2,
+        "max": 2
+      },
+      "weather": {
+        "value": 4,
+        "max": 5
+      },
+      "crisis": {
+        "value": 1,
+        "max": 1
+      },
+      "road-boots": {
+        "value": 1,
+        "max": 1
+      },
+      "road-breeches": {
+        "value": 1,
+        "max": 1
+      },
+      "road-shirt": {
+        "value": 1,
+        "max": 1
+      },
+      "sex": {
+        "value": 1,
+        "max": 1
+      },
+      "base-gender": {
+        "value": 2,
+        "max": 2
+      },
+      "crisis-bread-days": {
+        "value": 0,
+        "max": 1
+      },
+      "crisis-gate-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-dead-days": {
+        "value": 1,
+        "max": 2
+      },
+      "crisis-news-days": {
+        "value": 2,
+        "max": 3
+      },
+      "cold": {
+        "value": 2,
+        "max": 2
+      },
+      "met-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-rope-mother": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-binder": {
+        "value": 1,
+        "max": 1
+      },
+      "met-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "presence-young-man": {
+        "value": 1,
+        "max": 1
+      },
+      "prologue-young-man-sickness": {
+        "value": 1,
+        "max": 1
+      },
+      "familiarity-camp": {
+        "value": 6,
+        "max": 6
+      },
+      "met-surgeon": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-treated": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-checkup": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-told-board": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-told-seal": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-flirted": {
+        "value": 1,
+        "max": 1
+      },
+      "regard-surgeon": {
+        "value": 4,
+        "max": 4
+      },
+      "wounds-heard-of-the-surgeon": {
+        "value": 1,
+        "max": 1
+      },
+      "romance-asked-tonight": {
+        "value": 3,
+        "max": 3
+      },
+      "intimacy-surgeon": {
+        "value": 1,
+        "max": 1
+      },
+      "surgeon-cart-tonight": {
+        "value": 1,
+        "max": 2
+      },
+      "surgeon-cart-intimate": {
+        "value": 1,
+        "max": 1
+      },
+      "weather-roll": {
+        "value": 9,
+        "max": 9
+      }
+    },
+    "equipped": {
+      "feet": [
+        "road-boots"
+      ],
+      "pants": [
+        "road-breeches"
+      ],
+      "top": [
+        "road-shirt"
+      ]
+    },
+    "hand": [],
+    "open": null,
+    "result": {
+      "cardId": "his-cart",
+      "branchId": "lie",
+      "resultId": "lie-success-1",
+      "title": "The lamp out",
+      "description": "He turns the lamp down to nothing. The bed is longer than it is wide, as promised, and still not long enough for two, and he swears at it softly in a language you don't know. After that the dark is his and yours.\n\nLater, the lamp is cold, and he is asleep with one hand spread flat on your ribs.",
+      "changes": [
+        {
+          "quality": "desire",
+          "kind": "down",
+          "text": "The restless want settles.",
+          "level": 0,
+          "progress": {
+            "points": 0,
+            "next": 1
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "down",
+          "text": "Sleepiness has dropped (Wide awake).",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          },
+          "was": {
+            "level": 3,
+            "progress": {
+              "points": 0,
+              "next": 4
+            }
+          }
+        },
+        {
+          "quality": "sleepiness",
+          "kind": "up",
+          "text": "Sleepiness is increasing.",
+          "level": 1,
+          "progress": {
+            "points": 1,
+            "next": 2
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": null,
+          "kind": "system",
+          "text": "A new day begins.",
+          "level": null
+        },
+        {
+          "quality": "hunger",
+          "kind": "up",
+          "text": "Your belly gnaws at you.",
+          "level": 1,
+          "progress": {
+            "points": 1,
+            "next": 2
+          },
+          "was": {
+            "level": 1,
+            "progress": {
+              "points": 0,
+              "next": 2
+            }
+          }
+        },
+        {
+          "quality": "desire",
+          "kind": "up",
+          "text": "A restless want stirs in you.",
+          "level": 1,
+          "progress": {
+            "points": 0,
+            "next": 2
+          },
+          "was": {
+            "level": 0,
+            "progress": {
+              "points": 0,
+              "next": 1
+            }
+          }
+        },
+        {
+          "quality": "weather",
+          "kind": "down",
+          "text": "The weather changes. Rain. Anything left out gets wet, and wet cloth holds the cold.",
+          "level": 4,
+          "was": {
+            "level": 5
+          }
+        }
+      ],
+      "tests": [],
+      "passThrough": false
+    },
+    "queue": [
+      "his-cart-at-dawn",
+      "night-below-the-wall"
+    ],
+    "onceOnly": [
+      "the-road-in",
+      "a-place-by-the-fire"
+    ],
+    "spentToday": [],
+    "doneToday": [],
+    "firedOnce": [
+      "crisis-starts"
+    ],
+    "scheduled": [],
+    "lastRandomPick": {},
+    "pity": 0,
+    "notifications": [],
+    "forceTests": null,
+    "termsMet": [
+      "bound",
+      "binding",
+      "drover",
+      "wardens"
+    ]
+  }
+}
